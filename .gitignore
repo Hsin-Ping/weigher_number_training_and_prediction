@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore unrelated folder
+#starlight_data/
+
+# Ingore .pyc file
+lib/__pycache__/
